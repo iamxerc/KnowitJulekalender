@@ -8,7 +8,7 @@ hvor mye vann er det egentlig snakk om?
 I denne oppgaven antar vi at jorda er flat og todimensjonal.
 
 ## Oppgave
-Filen [world.txt](https://knowit-julekalender.s3.eu-central-1.amazonaws.com/world.txt) inneholder et ascii-bilde av verden. Ruter med `#` består av stein, mens tomme ruter 
+Filen [data.txt](https://github.com/iamxerc/KnowitJulekalender/blob/master/2019/02.%20des/data.txt) inneholder et ascii-bilde av verden. Ruter med `#` består av stein, mens tomme ruter 
 (mellomrom) inneholder luft. Så begynner det å regne, til det ikke er plass til mer vann. Vann som når fram til  kanten
 renner utenfor og forsvinner ut (nedover) i verdensrommet.
 

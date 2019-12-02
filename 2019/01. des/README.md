@@ -5,7 +5,7 @@ Av: Sverre Johann Bjørke
 Taenerys Dargaryen og dragen hennes har landet på en liten øy. Øya har få ressurser, med unntak av sauene som den lokale befolkningen lever av. For å ikke selv bli spist, setter de lokale i gang en aggressiv saueoppdrett slik at de hver dag kan gi en mengde sauer til dragen. I det de ankommer er dragen 50 enheter stor, og trenger derfor 50 sauer for å vokse seg større. Om den får dette blir den en enhet større neste dag, og trenger da en sau mer. Om det en dag er sauer til overs, blir disse overført til neste dags offer. Om det er for lite sauer en dag spiser dragen alle men krymper likevel en størrelse. Den påfølgende dagen trenger den da en mindre sau. Om dragen får for lite mat fem dager på rad, går dragen berserk og spiser alle på øya.
 
 ## Oppgave 
-[I denne filen ](https://gist.github.com/knowitkodekalender/77bf7dcec241844784beb797d356a23d)er antall sauer som er tilgjengelige for hver dag, seprarert med komma.  **Hvor mange dager overlever befolkningen?**
+[I denne filen ](https://github.com/iamxerc/KnowitJulekalender/blob/master/2019/01.%20des/data.txt)er antall sauer som er tilgjengelige for hver dag, seprarert med komma.  **Hvor mange dager overlever befolkningen?**
 
 ## Eksempel
 
