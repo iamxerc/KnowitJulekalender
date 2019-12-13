@@ -11,9 +11,10 @@ class drawMap {
         
     }
     function isVisited($pos) {
-        if(!property_exists($this, 'log')) return;
+        if(!property_exists($this, 'log')) 
+            return;
         list($y,$x) = $pos;
-        if(array_search([$y,$x], $this->log, true) == true)
+        if(array_key_exists(implode(',',$pos), $this->log));
             $this->html .= "background-color:green;";
     }
     function drawCell($cell) {
@@ -47,13 +48,13 @@ class drawMap {
         echo "Runtime ".$this->robot.": ".($this->stop - $this->start)." seconds.\n";
     }
 }
-/*
+
 $maps = new drawMap('map');
 $maps->draw();
 
 $arthur = new drawMap('arthur');
 $arthur->draw();
-*/
+
 $isaac = new drawMap('isaac');
 $isaac->draw();
 
