@@ -1,0 +1,1 @@
+<?php while(true)foreach([2,3,5,7,11]as$numAdd)for($x=0,(!isset($i)?$i=0:$i++);$x<($i==0?2:$seq[$i]);++$x,$seq[]=$numAdd)(count($seq)>=217532235?die("$sum7"):($numAdd==7?$sum7+=7:''));
